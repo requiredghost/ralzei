@@ -1,6 +1,6 @@
-# Hi, I'm Ralsei.
+# Hi, I'm Ralsei. 🐐
 
-## Web, C++ and Python developer. (I know other lagnguages too but I specialise in these.)
+## Web, C++ and Python developer. 
 
 ### [Check out my website for my portfolio.](https://ralsei.gay)
 
