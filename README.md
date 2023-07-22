@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Ralsei.
+
+## Web, C++ and Python developer. (I know other lagnguages too but I specialise in these.)
+
+### [Check out my website for my portfolio.](https://ralsei.gay)
 
 <!--
 **ralzei/ralzei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
