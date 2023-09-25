@@ -2,7 +2,7 @@
 
 ## Web, C++ and Python developer. 
 
-### [Check out my website for my portfolio.](https://ralsei.gay)
+### Check out my portfolio here.
 
 <!--
 **ralzei/ralzei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
